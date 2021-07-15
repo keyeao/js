@@ -1,3 +1,4 @@
+
 function setColor(color){
   var alist = document.querySelectorAll('a');
   var i = 0;
